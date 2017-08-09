@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+
+
+### PHP project
+composer.phar
+code/php/vendor
