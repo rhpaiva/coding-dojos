@@ -1,0 +1,18 @@
+{
+    "name": "rhpaiva/coding-dojos",
+    "description": "Exercises to practice together in short sessions.",
+    "type": "project",
+    "autoload": {
+        "psr-4": { "PhpKata\\": "src/" }
+    },
+    "require": {
+        "phpunit/phpunit": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Paiva",
+            "email": "rhpaiva@gmail.com"
+        }
+    ]
+}
