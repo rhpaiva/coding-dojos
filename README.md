@@ -1,4 +1,4 @@
-# Coding Katas for Coding Dojos @ Adpack
+# Coding Katas for Coding Dojos
 
 The dir "code" contains the structure necessary for each language that
 we will practice.
